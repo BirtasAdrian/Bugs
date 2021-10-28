@@ -27,7 +27,7 @@ The buttons should be perfectly visible.
 
 The buttons are not perfectly visible.
 ### Bug Images
-<img src="Bug Images/Tesla Bug image 1.png " witdh="400" height="385" >  
+<img src="Bug Images/Tesla Bug image 1.png " witdh="400" height="386" >  
 <img src="Bug Images/Tesla Bug image 2.jpg" witdh="400" height="447" >
 
 -----------------
@@ -59,4 +59,4 @@ The product should have a quantity field with a unit of measure.
 The product doesn’t have a quantity field.
 ### Bug Images
 
-<img src="Bug Images/Product store bug .png " witdh="400" height="500" >  
+<img src="Bug Images/Product store bug .png " witdh="400" height="400" >  
