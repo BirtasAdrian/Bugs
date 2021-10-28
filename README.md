@@ -27,3 +27,4 @@ The buttons should be perfectly visible.
 
 The buttons are not perfectly visible.
 <img src="https://adrian1219.tumblr.com/private/666315126202318848/tumblr_5ZyFJWGifjFIlc3vO" witdh="100" height="10" >
+![Testla bug image 1](https://adrian1219.tumblr.com/private/666315126202318848/tumblr_5ZyFJWGifjFIlc3vO)
