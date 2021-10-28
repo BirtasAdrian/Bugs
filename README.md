@@ -10,6 +10,7 @@ Below are some Bug samples that i wrote in my experience.
 P4 – Low
 
 **Description**
+
 The buttons at the bottom of the home page have low visibility.
 
 **Steps to reproduce**
