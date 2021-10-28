@@ -59,7 +59,7 @@ The product should have a quantity field with a unit of measure.
 The product doesn’t have a quantity field.
 ### Bug Images
 
-<img src="Bug Images/Product store bug .png " witdh="400" height="405" >  
+<img src="Bug Images/Product store bug .png" witdh="400" height="405" >  
 
 -----------------
 
@@ -85,3 +85,7 @@ There should be a currency symbol in the price area.
 **Actual result**
 
 There is no currency symbol in the price area.
+
+### Bug Images
+
+<img src="Bug Images/Juice Shop bug.png" witdh="400" height="405" >  
