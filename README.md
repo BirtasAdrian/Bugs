@@ -92,6 +92,30 @@ There is no currency symbol in the price area.
 
 -----------------
 
+## Values of the keys “base” and “main” are not translated into Romanian
+
+**Priority & Severity**
+
+P5 – Low
+
+**Description**
+
+When we access the API with the parameter ,,lang’’ and the value ,,ro”, the values of the keys ..base” and ,,main”  are not translated into Romanian.
+
+**Steps to reproduce**
+1.Go to api.openweathermap.org/data/2.5/weather?q=London&appid=0cd1604bc507bb598a3f12fa26d68fa0&units=metric&lang=ro in Postman
+2. Look at the “base” and “main” keys
+
+**Expected result**
+
+The values of the keys should be translated.
+
+**Actual result**
+
+The values are not translated.
+
+-----------------
+
 ## Order only with the name and number of the card
 **Priority & Severity**
 
