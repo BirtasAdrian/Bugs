@@ -89,3 +89,34 @@ There is no currency symbol in the price area.
 ### Bug Images
 
 <img src="Bug Images/Juice Shop bug.png" witdh="400" height="405" >  
+
+-----------------
+
+## Order only with the name and number of the card
+**Priority & Severity**
+
+P1 – High
+
+**Description**
+
+You can place an order without going through all the necessary information. In order form you can complete just the name and number of the card and to press ,,Order” button.
+
+**Steps to reproduce**
+1. Go to https://www.demoblaze.com/index.html  
+2. Sing up to the site
+3. Log in to the site
+4. Add a product to the cart
+5. Press the ,,Cart” button
+6. Press the ,,Place order” button
+7. Fill in ,,Name” and ,,Credit card,, fields
+8. Press ,,Order” button
+
+**Expected result**
+
+You will not be able to order.
+
+**Actual result**
+
+The order is placed.
+
+
