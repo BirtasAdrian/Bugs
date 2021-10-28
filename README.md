@@ -60,3 +60,5 @@ The product doesn’t have a quantity field.
 ### Bug Images
 
 <img src="Bug Images/Product store bug .png " witdh="400" height="405" >  
+
+-----------------
