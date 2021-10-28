@@ -29,4 +29,4 @@ The buttons are not perfectly visible.
 ### Bug Images
 <img src="Bug Images/Tesla Bug image 1.png " witdh="500" height="600" >  
 
-<img src="Bug Images/Tesla Bug image 2.jpg" witdh="500" height="600" >
+<img src="Bug Images/Tesla Bug image 2.jpg" witdh="500" height="625" >
