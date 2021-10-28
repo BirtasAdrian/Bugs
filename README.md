@@ -58,3 +58,6 @@ The product should have a quantity field with a unit of measure.
 **Actual result**
 
 The product doesn’t have a quantity field.
+### Bug Images
+
+<img src="Bug Images/Product store bug .png " witdh="400" height="500" >  
