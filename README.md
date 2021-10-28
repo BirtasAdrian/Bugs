@@ -103,7 +103,8 @@ P5 – Low
 When we access the API with the parameter ,,lang’’ and the value ,,ro”, the values of the keys ..base” and ,,main”  are not translated into Romanian.
 
 **Steps to reproduce**
-1.Go to api.openweathermap.org/data/2.5/weather?q=London&appid=0cd1604bc507bb598a3f12fa26d68fa0&units=metric&lang=ro in Postman
+
+1. Go to api.openweathermap.org/data/2.5/weather?q=London&appid=0cd1604bc507bb598a3f12fa26d68fa0&units=metric&lang=ro in Postman
 2. Look at the “base” and “main” keys
 
 **Expected result**
@@ -113,6 +114,10 @@ The values of the keys should be translated.
 **Actual result**
 
 The values are not translated.
+
+### Bug Images
+
+<img src="API bug.jpg" witdh="400" height="405" >  
 
 -----------------
 
