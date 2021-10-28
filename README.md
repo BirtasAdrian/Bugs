@@ -26,4 +26,5 @@ The buttons should be perfectly visible.
 **Actual result** 
 
 The buttons are not perfectly visible.
-<img src="Bug Images/Tesla Bug image 1.png" witdh="100" height="10" >
+
+<img src="Bug Images/Tesla Bug image 1.png" witdh="300" height="300" >
