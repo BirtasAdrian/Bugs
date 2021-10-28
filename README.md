@@ -117,7 +117,7 @@ The values are not translated.
 
 ### Bug Images
 
-<img src="API bug.jpg" witdh="400" height="405" >  
+<img src="Bug Images/API bug.jpg" witdh="400" height="405" >  
 
 -----------------
 
