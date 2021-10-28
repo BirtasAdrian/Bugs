@@ -20,7 +20,8 @@ The buttons at the bottom of the home page have low visibility.
 3. Look at the buttons
 
 **Expected result**
+
 The buttons should be perfectly visible.
 
-**Actual result**
+**Actual result** /
 The buttons are not perfectly visible.
