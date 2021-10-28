@@ -4,7 +4,7 @@ Below are some Bug samples that i wrote in my experience.
 
 -----------------
 
-## Low visibility buttons on the Tesla website
+### Low visibility buttons on the Tesla website
 
 **Priority & Severity**
 P4 – Low
