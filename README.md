@@ -70,14 +70,18 @@ The product doesn’t have a quantity field.
 P3 – Low
 
 **Description**
+
 Products don’t have a currency symbol in the price area on the website.
 
 **Steps to reproduce**
+
 1. Go to https://juice-shop.herokuapp.com/#/
 2. Look in the price area for products
 
 **Expected result**
+
 There should be a currency symbol in the price area.
 
 **Actual result**
+
 There is no currency symbol in the price area.
