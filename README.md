@@ -119,4 +119,28 @@ You will not be able to order.
 
 The order is placed.
 
+-----------------
+
+## Wrong video in ,,About Us" section on demoblaze.com store 
+
+**Priority & Severity**
+
+P4 – low
+
+**Description**
+
+In „About Us” section is a video that doesn’t describe the store. A course in it’s described in the video. 
+
+**Steps to reproduce**
+1. Go to http://www.demoblaze.com/index.html 
+2. Click on the section ,,About Us”
+3. Click on the video
+
+**Expected result**
+
+The video should describe the store.
+
+**Actual result**
+
+The video describe a course in it.
 
