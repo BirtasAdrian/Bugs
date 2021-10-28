@@ -30,3 +30,5 @@ The buttons are not perfectly visible.
 <img src="Bug Images/Tesla Bug image 1.png " witdh="400" height="500" >  
 
 <img src="Bug Images/Tesla Bug image 2.jpg" witdh="400" height="447" >
+
+-----------------
