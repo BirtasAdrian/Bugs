@@ -4,7 +4,7 @@ Below are some Bug samples that i wrote in my experience.
 
 -----------------
 
-### Low visibility buttons on the Tesla website
+## Low visibility buttons on the Tesla website
 
 **Priority & Severity**
 
@@ -32,7 +32,7 @@ The buttons are not perfectly visible.
 
 -----------------
 
-### Product store doesn’t have a quantity field for products
+## Product store doesn’t have a quantity field for products
 
 **Priority & Severity**
 
