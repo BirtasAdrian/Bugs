@@ -120,6 +120,37 @@ The values are not translated.
 <img src="Bug Images/API bug.jpg" witdh="400" height="405" >  
 
 -----------------
+## Wrong message displayed for the value of the key ,,id''
+
+**Priority & Severity**
+
+P5 – Low
+
+**Description**
+
+When we access the API with the ,,id” parameter and a value that is not in the table, we receive a positive message.
+
+**Steps to reproduce**
+1. Go to: http://qachallenge.ro/api/test_api.php?action=fetch_all in Postman 
+2. Send the endpoint
+3. Add an id that is not in the response for the endpoint of the next step
+4. Go to http://qachallenge.ro/api/test_api.php?action=delete&id=    in Postman 
+5. Send the endpoint
+6. Look at the message
+
+**Expected result**
+
+The message should be negative.
+
+**Actual result**
+
+### Bug Images
+
+The message is positive.
+
+<img src="Bug Images/API bug 2.jpg" witdh="400" height="405" >  
+
+-----------------
 
 ## Order only with the name and number of the card
 **Priority & Severity**
