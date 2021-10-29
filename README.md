@@ -144,9 +144,9 @@ The message should be negative.
 
 **Actual result**
 
-### Bug Images
-
 The message is positive.
+
+### Bug Images
 
 <img src="Bug Images/API bug 2.jpg" witdh="400" height="405" >  
 
