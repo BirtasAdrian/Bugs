@@ -152,6 +152,38 @@ The message is positive.
 
 -----------------
 
+## On the order form important fields are missing
+
+**Priority & Severity**
+
+P1 – Normal
+
+**Description**
+
+On the order form we can’t find in the credit card area the fields ,,Full name”, ,,Card number”, ,,CVC or CVS”, ,,Expiration data”. The ,,Street & number” field are also missing.
+
+**Steps to reproduce**
+1. Go to https://www.demoblaze.com/index.html  
+2. Sing up to the site
+3. Log in to the site
+4. Add a product to the cart
+5. Press the ,,Cart” button
+6. Press the ,,Place order” button
+7. Look at the form
+
+**Expected result**
+
+The fields will be there.
+
+**Actual result**
+The fields are not there.
+
+### Bug Images
+
+<img src="Bug Images/Product store bug 2.png" witdh="400" height="405" >  
+
+-----------------
+
 ## Order only with the name and number of the card
 **Priority & Severity**
 
