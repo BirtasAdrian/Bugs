@@ -100,12 +100,12 @@ P5 – Low
 
 **Description**
 
-When we access the API with the parameter ,,lang’’ and the value ,,ro”, the values of the keys ..base” and ,,main”  are not translated into Romanian.
+When we access the API with the parameter ,,lang”  and the value ,,ro”, the values of the keys ,,base” and ,,main”  are not translated into Romanian.
 
 **Steps to reproduce**
 
 1. Go to api.openweathermap.org/data/2.5/weather?q=London&appid=0cd1604bc507bb598a3f12fa26d68fa0&units=metric&lang=ro in Postman
-2. Look at the “base” and “main” keys
+2. Look at the ,,base” and ,,main” keys
 
 **Expected result**
 
@@ -134,7 +134,7 @@ When we access the API with the ,,id” parameter and a value that is not in the
 1. Go to: http://qachallenge.ro/api/test_api.php?action=fetch_all in Postman 
 2. Send the endpoint
 3. Add an id that is not in the response for the endpoint of the next step
-4. Go to http://qachallenge.ro/api/test_api.php?action=delete&id=    in Postman 
+4. Go to http://qachallenge.ro/api/test_api.php?action=delete&id=  in Postman 
 5. Send the endpoint
 6. Look at the message
 
@@ -168,7 +168,7 @@ You can place an order without going through all the necessary information. In o
 4. Add a product to the cart
 5. Press the ,,Cart” button
 6. Press the ,,Place order” button
-7. Fill in ,,Name” and ,,Credit card,, fields
+7. Fill in ,,Name” and ,,Credit card”  fields
 8. Press ,,Order” button
 
 **Expected result**
