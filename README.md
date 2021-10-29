@@ -159,7 +159,7 @@ P1 – High
 
 **Description**
 
-You can place an order without going through all the necessary information. In order form you can complete just the name and number of the card and to press ,,Order” button.
+You can place an order without going through all the necessary information. In order form you can complete just the name and number of the card and to press  „Order” button.
 
 **Steps to reproduce**
 1. Go to https://www.demoblaze.com/index.html  
