@@ -1,6 +1,6 @@
 # Bugs
 
-Below are some Bug samples that i wrote in my experience.
+Below are some Bug samples that I wrote in my experience.
 
 -----------------
 
