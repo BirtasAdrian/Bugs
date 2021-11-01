@@ -148,7 +148,7 @@ The message is positive.
 
 ### Bug Images
 
-<img src="Bug Images/API bug 2.jpg" witdh="400" height="405" >  
+<img src="Bug Images/API bug 2.jpg" >  
 
 -----------------
 
