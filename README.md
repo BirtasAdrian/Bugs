@@ -36,7 +36,7 @@ The Nickname for the second change will be successfully changed.
 
 **Actual result** 
 
-The Nickname for the second change is not changed successfully.
+The Nickname for the second change has not been changed successfully.
 
 ### Bug Video
 https://user-images.githubusercontent.com/90641668/158023109-7f00da97-83d0-4bcb-91fb-c10d162376ce.mp4
