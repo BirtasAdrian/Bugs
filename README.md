@@ -172,7 +172,7 @@ There is no currency symbol in the price area.
 
 -----------------
 
-## Values of the keys “base” and “main” are not translated into Romanian
+## Values of the keys “base” and “main” are not translated in Romanian
 
 **Priority & Severity**
 
@@ -180,7 +180,7 @@ P5 – Low
 
 **Description**
 
-When we access the API with the parameter ,,lang”  and the value ,,ro”, the values of the keys ,,base” and ,,main”  are not translated into Romanian.
+When we access the API with the parameter ,,lang”  and the value ,,ro”, the values of the keys ,,base” and ,,main”  are not translated in Romanian.
 
 **Steps to reproduce**
 
