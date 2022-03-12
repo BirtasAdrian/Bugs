@@ -32,6 +32,8 @@ The buttons are not perfectly visible.
 
 -----------------
 
+<img src="Bug Videos/Bug libris.mp4" witdh="400" height="500" > 
+
 ## Product store doesn’t have a quantity field for products
 
 **Priority & Severity**
