@@ -54,7 +54,9 @@ When I check a meesage on Instgram and after that I go to see the pictures of a 
 **Preconditions**
 
 Smartphone: Xiaomi Mi mix 3 
+
 Instagram version: 225.0.0.19.115
+
 The user must be logged in.
 
 **Steps to reproduce**
