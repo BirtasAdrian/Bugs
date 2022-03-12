@@ -95,7 +95,7 @@ The product should have a quantity field with a unit of measure.
 **Actual result**
 
 The product doesn’t have a quantity field.
-### Bug Images
+### Bug Image
 
 <img src="Bug Images/Product store bug .png" witdh="400" height="405" >  
 
@@ -124,7 +124,7 @@ There should be a currency symbol in the price area.
 
 There is no currency symbol in the price area.
 
-### Bug Images
+### Bug Image
 
 <img src="Bug Images/Juice Shop bug.png" witdh="400" height="405" >  
 
@@ -153,7 +153,7 @@ The values of the keys should be translated.
 
 The values are not translated.
 
-### Bug Images
+### Bug Image
 
 <img src="Bug Images/API bug.jpg" witdh="400" height="405" >  
 
@@ -184,7 +184,7 @@ The message should be negative.
 
 The message is positive.
 
-### Bug Images
+### Bug Image
 
 <img src="Bug Images/API bug 2.jpg" >  
 
@@ -216,7 +216,7 @@ The fields will be there.
 **Actual result**
 The fields are not there.
 
-### Bug Images
+### Bug Image
 
 <img src="Bug Images/Product store bug 2.png" witdh="400" height="405" >  
 
@@ -278,7 +278,7 @@ The video should describe the store.
 
 The video describe a course in it. 
 
-### Bug Images
+### Bug Image
 
 <img src="Bug Images/Demoblaze About Us bug.jpg" witdh="400" height="405" >  
 
