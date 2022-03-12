@@ -278,3 +278,7 @@ The video should describe the store.
 
 The video describe a course in it. 
 
+### Bug Images
+
+<img src="Bug Images/Demoblaze About Us bug.jpg" witdh="400" height="405" >  
+
