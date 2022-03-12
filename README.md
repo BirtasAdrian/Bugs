@@ -249,6 +249,10 @@ You will not be able to order.
 
 The order is placed.
 
+### Bug Video
+
+https://user-images.githubusercontent.com/90641668/158023358-41b476a5-c518-43cc-88c6-420ec8e5e734.mp4
+
 -----------------
 
 ## Wrong video in ,,About Us" section on demoblaze.com store 
