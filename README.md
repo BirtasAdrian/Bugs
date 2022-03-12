@@ -235,5 +235,5 @@ The video should describe the store.
 
 **Actual result**
 
-The video describe a course in it.
+The video describe a course in it. 
 
