@@ -263,7 +263,7 @@ P4 – low
 
 **Description**
 
-In „About Us” section is a video that doesn’t describe the store. A course in it is described in the video. 
+In „About Us” section is a video that doesn’t describe the store. A course in IT is described in the video. 
 
 **Steps to reproduce**
 1. Go to http://www.demoblaze.com/index.html 
