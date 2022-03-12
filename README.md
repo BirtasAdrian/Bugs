@@ -42,7 +42,46 @@ The Nickname for the second change has not been changed successfully.
 https://user-images.githubusercontent.com/90641668/158023109-7f00da97-83d0-4bcb-91fb-c10d162376ce.mp4
 
 -----------------
+## Back arrow and Postări title go up on the notifications menu
 
+**Priority & Severity**
+
+P4 - Low
+
+**Description**
+When I check a meesage on Instgram and after that I go to see the pictures of a profile from home screen, the back arrow and Postări title go up on the notifications menu when I scroll up.
+
+**Preconditions**
+
+Smartphone: Xiaomi Mi mix 3 
+Instagram version: 225.0.0.19.115
+The user must be logged in.
+
+**Steps to reproduce**
+
+1. Go and check a message and scrolls up and down 
+2. Go to home menu
+3. Go to an instagram profile
+4. Press on a picture 
+5. Scroll up
+
+**Expected result**
+
+The back arrow and Postări title successfully disappear from the notifications menu.
+
+**Actual result** 
+
+The back arrow and Postări title did not disappear successfully from the notifications menu.
+
+### Bug Video
+
+https://user-images.githubusercontent.com/90641668/158036908-6c8d76f6-bf52-4df7-9dd4-24fff0c252cf.mp4
+
+### The correct flow 
+
+https://user-images.githubusercontent.com/90641668/158036957-2c57a0b7-ac8e-4906-9de0-f0552ffd3b4b.mp4
+
+-----------------
 ## Low visibility buttons on the Tesla website
 
 **Priority & Severity**
