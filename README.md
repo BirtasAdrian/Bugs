@@ -3,6 +3,44 @@
 Below are some Bug samples that I wrote from my experience. 
 
 -----------------
+## Nickname doesn’t change in “Editare date personale” section on libris.ro 
+
+**Priority & Severity**
+
+P3 - Medium
+
+**Description**
+
+When I tried to put the characters from Test data section to change my Nickname, they got stuck. Now it’s impossible to change my Nickname a second time. The Nickname is used to log in to the site and it still works. 
+
+**Preconditions**
+
+The user must be logged in. 
+
+**Steps to reproduce**
+
+1. Place the cursor on the account section 
+2. Press “Contul meu” button
+3. Press “Editeaza” button in “Datele mele” section
+4. Change the Nickname with the Nickname from the Test data section; 
+5. Press “Modifica” button
+6. Press again “Editeaza” button in “Datele mele” section
+7. Change the Nickname with any other Nickname 
+8. Press “Modifica” button 
+
+**Test data:** abcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+**Expected result**
+
+The Nickname for the second change will be successfully changed. 
+
+**Actual result** 
+
+The Nickname for the second change is not changed successfully.
+
+### Bug Video
+https://user-images.githubusercontent.com/90641668/158023109-7f00da97-83d0-4bcb-91fb-c10d162376ce.mp4
+
 
 ## Low visibility buttons on the Tesla website
 
