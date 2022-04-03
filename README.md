@@ -42,7 +42,7 @@ The Nickname for the second change has not been changed successfully.
 https://user-images.githubusercontent.com/90641668/158023109-7f00da97-83d0-4bcb-91fb-c10d162376ce.mp4
 
 -----------------
-## Back arrow and Postări title go up on the notifications menu
+## Back arrow and the Postări title go up on the notifications menu
 
 **Priority & Severity**
 
