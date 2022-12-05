@@ -4,7 +4,7 @@ Below are some Bug samples that I wrote from my experience.
 
 -----------------
 ## Nickname doesn’t change in “Editare date personale” section on libris.ro 
-
+ 
 **Priority & Severity**
 
 P3 - Medium
