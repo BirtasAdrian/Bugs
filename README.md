@@ -200,6 +200,42 @@ The values are not translated.
 <img src="Bug Images/API bug.jpg" witdh="400" height="405" >  
 
 -----------------
+
+## Wrong response message for Update request in qachallenge.ro API
+
+**Priority & Severity**
+
+P5 – Low
+
+**Description**
+
+When the user sends a request for update the response is [{"success":"0"}] not [{"success":"1"}] as in the documentation and status code is 200 OK for this.
+
+**Steps to reproduce**
+
+1. Go to http://qachallenge.ro/api/test_api.php?action=update
+2. Select "PUT" method
+3. Use in Body form-data section Key id and value 417
+4. Use in Body form-data section Key first_name and value Adrian
+5. Use in Body form-data section Key last_name and value Birtas
+6. Press SEND button
+
+**Expected result**
+
+The response should be [{"success":"1"}]
+
+**Actual result**
+
+The response is [{"success":"0"}] 
+
+
+### Bug Image
+
+![Update](https://user-images.githubusercontent.com/90641668/214396702-cae4f055-2bb5-47fb-b0bf-d7172dadb570.jpg)
+
+
+-----------------
+
 ## Wrong message displayed for the value of the key ,,id''
 
 **Priority & Severity**
