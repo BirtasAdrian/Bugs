@@ -184,7 +184,7 @@ When we access the API with the parameter ,,lang”  and the value ,,ro”, the 
 
 **Steps to reproduce**
 
-1. Go to api.openweathermap.org/data/2.5/weather?q=London&appid=0cd1604bc507bb598a3f12fa26d68fa0&units=metric&lang=ro in Postman
+1. Go to api.openweathermap.org/data/2.5/weather?q=London&appid=0cd1604bc507bb598a3f12fa26d68fa0&units=metric&lang=ro in Postman using "GET" method
 2. Look at the ,,base” and ,,main” keys
 
 **Expected result**
@@ -209,15 +209,15 @@ P5 – Low
 
 **Description**
 
-When the user sends a request for update the response is [{"success":"0"}] not [{"success":"1"}] as in the documentation and status code is 200 OK for this.
+When the user sends a request for update the response is [{"success":"0"}] not [{"success":"1"}] as in the documentation and status code is 200 OK for it.
 
 **Steps to reproduce**
 
 1. Go to http://qachallenge.ro/api/test_api.php?action=update
 2. Select "PUT" method
-3. Use in Body, form-data section the Key id and value 417
-4. Use in Body, form-data section the Key first_name and value Adrian
-5. Use in Body, form-data section the Key last_name and value Birtas
+3. Use in Body, form-data section the Key "id" and value "417"
+4. Use in Body, form-data section the Key "first_name" and value "Adrian"
+5. Use in Body, form-data section the Key "last_name" and value "Birtas"
 6. Press SEND button
 
 **Expected result**
