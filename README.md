@@ -215,9 +215,9 @@ When the user sends a request for update the response is [{"success":"0"}] not [
 
 1. Go to http://qachallenge.ro/api/test_api.php?action=update
 2. Select "PUT" method
-3. Use in Body form-data section Key id and value 417
-4. Use in Body form-data section Key first_name and value Adrian
-5. Use in Body form-data section Key last_name and value Birtas
+3. Use in Body, form-data section the Key id and value 417
+4. Use in Body, form-data section the Key first_name and value Adrian
+5. Use in Body, form-data section the Key last_name and value Birtas
 6. Press SEND button
 
 **Expected result**
